@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/K/Documents/secondgame-krozet/Survive/src/Graphics/Background.java</file>
+            <file>file:/C:/Users/K/Documents/secondgame-krozet/Survive/src/GameState/EndState.java</file>
+            <file>file:/C:/Users/K/Documents/secondgame-krozet/Survive/src/GameObjects/Steering.java</file>
+            <file>file:/C:/Users/K/Documents/secondgame-krozet/Survive/src/GameState/LevelState.java</file>
+            <file>file:/C:/Users/K/Documents/secondgame-krozet/Survive/src/GameState/ControlState.java</file>
+            <file>file:/C:/Users/K/Documents/secondgame-krozet/Survive/src/GameObjects/GameObject.java</file>
+            <file>file:/C:/Users/K/Documents/secondgame-krozet/Survive/src/GameState/GameStateManager.java</file>
+            <file>file:/C:/Users/K/Documents/secondgame-krozet/Survive/src/Main/ThreadPool.java</file>
+            <file>file:/C:/Users/K/Documents/secondgame-krozet/Survive/src/Graphics/Health.java</file>
+            <file>file:/C:/Users/K/Documents/secondgame-krozet/Survive/src/Main/ThreadID.java</file>
+            <file>file:/C:/Users/K/Documents/secondgame-krozet/Survive/src/Map/Block.java</file>
+            <file>file:/C:/Users/K/Documents/secondgame-krozet/Survive/src/GameObjects/Explosion.java</file>
+            <file>file:/C:/Users/K/Documents/secondgame-krozet/Survive/src/Map/Map.java</file>
+            <file>file:/C:/Users/K/Documents/secondgame-krozet/Survive/src/Music/MusicPlayer.java</file>
+            <file>file:/C:/Users/K/Documents/secondgame-krozet/Survive/src/GameObjects/Vector2D.java</file>
+            <file>file:/C:/Users/K/Documents/secondgame-krozet/Survive/src/Main/GameWorld.java</file>
+            <file>file:/C:/Users/K/Documents/secondgame-krozet/Survive/src/Graphics/Animation.java</file>
+            <file>file:/C:/Users/K/Documents/secondgame-krozet/Survive/src/GameState/Wave.java</file>
+            <file>file:/C:/Users/K/Documents/secondgame-krozet/Survive/src/GameObjects/Enemy.java</file>
+            <file>file:/C:/Users/K/Documents/secondgame-krozet/Survive/src/GameState/MenuState.java</file>
+            <file>file:/C:/Users/K/Documents/secondgame-krozet/Survive/src/GameState/Waves.java</file>
+            <file>file:/C:/Users/K/Documents/secondgame-krozet/Survive/src/GameObjects/Bullet.java</file>
+            <file>file:/C:/Users/K/Documents/secondgame-krozet/Survive/src/GameState/GameState.java</file>
+            <file>file:/C:/Users/K/Documents/secondgame-krozet/Survive/src/GameObjects/Player.java</file>
+            <file>file:/C:/Users/K/Documents/secondgame-krozet/Survive/src/Main/PooledThread.java</file>
+            <file>file:/C:/Users/K/Documents/secondgame-krozet/Survive/src/Main/GamePanel.java</file>
+        </group>
+    </open-files>
+</project-private>
